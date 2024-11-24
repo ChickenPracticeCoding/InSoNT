@@ -1,0 +1,15 @@
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\bin\Debug\net8.0\InSoNguyenTo.exe
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\bin\Debug\net8.0\InSoNguyenTo.deps.json
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\bin\Debug\net8.0\InSoNguyenTo.runtimeconfig.json
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\bin\Debug\net8.0\InSoNguyenTo.dll
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\bin\Debug\net8.0\InSoNguyenTo.pdb
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\obj\Debug\net8.0\InSoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\obj\Debug\net8.0\InSoNguyenTo.AssemblyInfoInputs.cache
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\obj\Debug\net8.0\InSoNguyenTo.AssemblyInfo.cs
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\obj\Debug\net8.0\InSoNguyenTo.csproj.CoreCompileInputs.cache
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\obj\Debug\net8.0\InSoNguyenTo.sourcelink.json
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\obj\Debug\net8.0\InSoNguyenTo.dll
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\obj\Debug\net8.0\refint\InSoNguyenTo.dll
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\obj\Debug\net8.0\InSoNguyenTo.pdb
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\obj\Debug\net8.0\InSoNguyenTo.genruntimeconfig.cache
+E:\Hoctap\Prj_Github\CodeGymEX\InSoNguyenTo\InSoNguyenTo\obj\Debug\net8.0\ref\InSoNguyenTo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InSoNguyenTo/1.0.0": {
+        "runtime": {
+          "InSoNguyenTo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InSoNguyenTo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
